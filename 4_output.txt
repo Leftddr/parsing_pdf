@@ -1,0 +1,115 @@
+M. Nofer et al.: Blockchain, Bus Inf Syst Eng 59(3):1837187 (2017)
+
+literature. Szabo (1997) introduced the concept of “Smart
+Contracts”, which combine computer protocols with user
+interfaces to execute the terms of a contract Due to the
+blockchain, Smart Contracts are becoming more popular
+since they can be utilized more easily by applying block-
+chains in comparison to the technology available at the
+time of their invention 20 years ago. This innovative
+approach might, for example, replace lawyers and banks
+that have been involved in contracts for asset deals
+depending on predeﬁned aspects (Fairﬁeld 2014). Smart
+Contracts can also be used to control the ownership of
+properties. These properties might be tangible (e.g., houses,
+automobiles) or intangible (e.g., shares, access rights). A
+prominent example for blockchain technology that treats
+smart contracts as ﬁrst class citizens is Ethereum, which is
+a decentralized system originally proposed by Buterin
+(2014). A taxonomy of decentralised consensus systems
+and an overview of different types of systems is provided
+
+Table 1 Applications of blockchain
+
+185
+
+by Glaser and Bezzenberger (2015). Ethereum can be seen
+as an extension of the Bitcoin blockchain to support a
+broader scope of applications. Thus, blockchain technology
+allows to establish contracts using cryptography and to
+replace third parties (e.g., a notary) that have been neces-
+sary to establish trust in the past. Blockchain might disrupt
+the entire transaction process by automatically executing
+contracts in a cost-effective, transparent and secure manner
+(Fairﬁeld 2014). The architectural components of block-
+chain technology, their interaction as well as a framework
+for implication analysis of blockchain systems for digital
+ecosystems is proposed by Glaser (2017).
+
+The ﬁnancial industry is even wondering if large parts
+of their current business might be replaced by the
+blockchain. This can be illustrated by the payment pro-
+cess. If people pay goods by credit card today, the set-
+tlement occurs after a delay of several days. Utilizing the
+blockchain, this delayed settlement would become
+
+ 
+
+Type Application Description Examples
+Financial Crypto-currencies Networks and mediums of exchange using cryptography to secure Bitcoin
+applications transactions Litecoin
+Ripple
+Monero
+Securities issuance, Companies going public issue shares directly and without a bank NASDAQ private equity
+trading and settlement syndicate. Private, less liquid shares can be traded in a blockchain-based Medici
+secondary market. First projects try to tackle securities settlement
+Blockstream
+Coinsetter
+Insurance Properties (e.g., real estate, automobiles, etc.) might be registered using Everledger
+the blockchain technology. Insurers can check the transaction history
+Non— Notary public Central authorization by notary is not necessary anymore Stampery
+ﬁnancial Viacoin
+a lications .
+PP Ascrtbe
+
+Music industry
+
+Decentralized proof of
+existence of documents
+
+Decentralized storage
+
+Decentralized intemel
+of things
+
+Antivcounterfeit
+solutions
+
+Internet applications
+
+Determining music royalties and managing music rights ownership
+
+Storing and validating the signature and timestamp of a document using
+blockchain
+
+Sharing documents without the need of a third party by using a peer—to—
+peer distributed cloud storage platform
+
+The blockchain reliably stores the communication of smart devices within
+the intemet of things
+
+Authenticity of products is veriﬁed by the blockchain network consisting
+of all market participants in electronic commerce (producers, merchants,
+marketplaces)
+
+Instead of governments and corporations, Domain Name Sewers (DNS)
+are controlled by every user in a decentralized way
+
+Imogen heap
+
+www .proofofexistence.
+com
+
+Storj
+
+Filament ADEPT
+(developed by IBM and
+Samsung)
+
+Blockven'fy
+
+Namecoin
+
+ 
+
+(E Springer

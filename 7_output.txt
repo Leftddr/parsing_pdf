@@ -1,0 +1,57 @@
+M. Nofer et al.: Blockchain, Bus Inf Syst Eng 59(3)21837187 (2017)
+
+In: Proceedings of the 501h Hawaii International Conference on
+System Sciences (HICSS 2017), Waikoloa Village, Hawaii
+Glaser F, Bezzenberger L (2015) Beyond Cryptocurrencies—A Tax—
+onomy of Decentralized Consensus Systems. In: Proceedings of
+the 23rd European Conference on Information Systems (ECIS
+2015), Muenster, Germany
+
+Glaser F, Zimmermann K, Haferkom M, Weber M, Siering M (2014)
+Bitcoin—asset or currency? Revealing users’ hidden intentions.
+In: Proceedings of the 22nd European Conference on Informa—
+tion Systems (ECIS 2014); Tel Aviv, Israel
+
+Goldman Sachs (2016) Proﬁles in Innovation 7 Blockchain. http:/l
+www.the-blockchain.com/docs/Goldman-Sachs-report-Block
+chain-Putting-Theory-into—Practice.pdf. Accessed 30 Nov 2016
+
+Kosba A, Miller A, Sh.i E, Wen Z, Papamanthou C (2016) Hawk: The
+blockchain model of cryptography and privacy-preserving smart
+contracts. In: IEEE Symposium on Security and Privacy (SP),
+pp 8397858
+
+Lewenberg Y, Sompolinsky Y, Zohar A (2015) Inclusive block chain
+protocols. In: International Conference on Financial Cryptograv
+phy and Data Security. Springer, Heidelberg, pp 528547
+
+187
+
+Luther W], White LH (2014) Can bitcoin become a major currency?
+Working Paper
+
+Miers I, Garman C, Green M, Rubin AD (2013) Zerocoin: Anony~
+mous distributed e-cash from bitcoin. IEEE Symposium on
+
+Security and Privac. IEEE pp 397411
+
+Mishkin FS (2004) The economics of money and ﬁnancial markets,
+7th edn. Pearson, Boston
+
+Swanson T (2015) Consensus-as—a-service: a brief report on the
+emergence of permissioned, distributed ledger systems. Work
+Pap
+
+Szabo N (1997) Smart contracts: formalizing and securing relation~
+ships on public networks. First Monday 2(9). doi:10.5210/fm.
+v2i9.548
+
+Zheng Z, Xie S, Dai HN, Wang H (2016) Blockchain Challenges and
+
+Opportunities: A Survey. Work Pap
+Zyskind G, Nathan 0, Pentland A (2015) Decentralizing privacy:
+
+Using blockchain to protect personal data. In Security and
+Privacy Workshops (SPW), IEEE 18(L184
+
+(E Springer

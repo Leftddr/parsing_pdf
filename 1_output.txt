@@ -1,0 +1,114 @@
+184
+
+Hash of block 0 Hash of block irl
+
+Timestamp
+
+ 
+
+ 
+
+Genesis block Block i
+
+Fig. 1 Example of a blockchain (Zheng et a1. 2016)
+
+validated by the network using cryptographic means. In
+addition to the transactions, each block contains a times-
+tamp, the hash value of the previous block (“parent”), and
+a nonce, which is a random number for verifying the hash.
+This concept ensures the integrity of the entire blockchain
+through to the ﬁrst block (“genesis block”). Hash values
+are unique and fraud can be effectively prevented since
+changes of a block in the chain would immediately change
+the respective hash value. If the majority of nodes in the
+network agree by a consensus mechanism on the validity of
+transactions in a block and on the validity of the block
+itself, the block can be added to the chain According to
+Swanson (2015), this consensus mechanism “is the process
+in which a majority (or in some cases all) of network
+validators come to agreement on the state of a ledger. It is a
+set of rules and procedures that allows maintaining
+coherent set of facts between multiple participating nodes”.
+Therefore new transactions are not automatically added to
+the ledger. Rather, the consensus process ensures that these
+transactions are stored in a block for a certain time (e.g.,
+10 min in the Bitcoin blockchain) before being transferred
+to the ledger. Afterwards, the information in the blockchain
+can no longer be changed. In the case of Bitcoin, blocks are
+created by so-called miners who are rewarded with Bit-
+coins for validating the blocks. The example of Bitcoin
+illustrates that the principle of the blockchain cannot only
+change the process of money transactions. Using cryptog-
+raphy, people all over the world can trust each other and
+transfer different kinds of assets peer-to-peer over the
+intemet.
+
+The distributed ledger system described above offers
+many beneﬁts. In contrast to centralized systems, the
+functionalities of the network persist even if particular
+nodes break down. This increases trust since people do not
+have to assess the trustworthiness of the intermediary or
+other participants in the network, It is sufﬁcient if people
+solely build trust in the system as a whole. The absence of
+intermediaries also fosters data security. As discussed by
+Zyskind et a1. (2015), the current practice of third parties
+collecting personal data implies the risk of security brea-
+ches. By utilizing the blockchain third parties can become
+obsolete, ultimately increasing user’s security.
+
+(E Springer
+
+M. Nofer et al.: Blockchain, Bus Inf Syst Eng 59(3):1837187 (2017)
+
+Hash of block i
+
+Hash of block i+1
+
+Block H2
+
+ 
+
+Block iJ>1
+
+In computer science, various papers around block-
+chains have been published in recent years and have, e.g.,
+analyzed consensus algorithms (cg, Eyal and Sirer 2014)
+or proposed novel concepts to tackle issues regarding
+privacy of smart contracts (e.g., Kosba et al. 2016).
+However, besides a lot of industry whitepapers on
+blockchains, academic papers in information systems
+around blockchain currently primarily focus on crypto-
+currencies. Besides signiﬁcant beneﬁts, there are also
+drawbacks and potential risks which are discussed in this
+stream of literature. Barber et a1. (2012) highlight several
+weaknesses of Bitcoin, such as theft or loss of Bitcoins
+(malware attacks, accidental loss), scalability issues (e.g,,
+delayed transaction conﬁrmation, data retention, and
+communication failures), and structural problems (e,g.,
+deﬂationary spiral). At the same time, Barber et al. (2012)
+suggest solutions for improving the existing Bitcoin
+technology. For instance, a “fair exchange protocol”
+might improve the user’s anonymity. Privacy implications
+of Bitcoin have also been discussed by other authors (e.g.,
+Androulaki et a1. 2013; Bonneau et a1. 2014; Miers et al.
+2013). In the current Bitcoin world, privacy can only be
+protected by using pseudonyms, As an extension to Bit-
+coin, Miers et a1. (2013) therefore developed Zerocoin,
+which allows for trading cryptocurrencies completely
+anonymously. In 2016, ansh, the successor of Zerocoin
+was launched.
+
+The process of generating new blocks implies perfor-
+mance problems if blocks are added to the network at a
+high rate. As an alternative to the existing blockchain
+structure, Lewenberg et a1. (2015) introduce “Inclusive
+Block Chain Protocols” to increase the transaction speed. It
+will be interesting to observe whether performance prob-
+lems can be overcome by this new technology, An analysis
+regarding the scalability of Bitcoin is provided by Croman
+et a1. (2016).
+
+3 Bluekchain and Smart Contracts
+
+The rise of the blockchain technology in recent years also
+supports other concepts that have been suggested in

@@ -1,0 +1,107 @@
+Bus Inf Syst Eng 59(3):1837187 (2017)
+D01 10.1007/S12599-017-0467-3
+
+CATCHWORD
+
+Blockchain
+
+Michael Nofer ‘ Peter Gomber ' Oliver Hinz ‘
+Dirk Schiereck
+
+® CrossMark
+
+Received: 20 January 2017/ Accepted: 20 February 2017/Published online: 20 March 2017
+
+© Springer Fachmedien Wiesbaden 2017
+
+Keywords Blockchain - Block chain - Business models -
+Disintegration - Digital currency
+
+1 Blockchain — A Disruptive Technology
+
+Blockchain technology and distributed ledgers are attract-
+ing massive attention and trigger multiple projects in dif-
+ferent industries However, the ﬁnancial industry is seen as
+a primary user of the blockchain concept. This is not only
+due to the fact that the most well-known application of this
+technology is the crypto-currency Bitcoin, but it is also
+driven by substantial process inefﬁciencies and a massive
+cost base issue speciﬁcally in this industry. On top of this,
+the ﬁnancial crisis revealed that even in ﬁnancial services it
+is not always possible to identify the correct present owner
+of an asset. It is even more of a problem to retrace own-
+ership over a longer chain of changing buyers in global
+
+ 
+
+Accepted after one revision by Prof. Dr. Sinz.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Dr. M. Nofer - Prof. Dr. 0. Hinz ( )
+Electronic Markets, Fachgebiet Wirtschaftsinformatik, TU
+Darmstadt, Hochschulstr. 1, 64289 Darmstadt, Germany
+e-mail: hinz@wi.tu—dannstadt.de
+
+M. Nofer
+e»mai1: nofer@emarkets.tu—darmstadt.de
+
+Prof. Dr. P. Gomber
+E-Finance, Goethe-Universitat Frankfurt, Theodor~W.vAdomo-
+
+Platz 4, 60629 Frankfurt am Main, Germany
+e-mail: gomber@wiwi.uni-frankfurt.de
+
+Prof. Dr. D. Schiereck
+
+Corporate Finance, TU Darmstadt, Hochschulstr. 1,
+64289 Dannstadt, Germany
+
+e-mail: schiereck@bwltuvdarmstadee
+
+ﬁnancial transaction services: when, e.g., the US invest-
+ment bank Bear Stearns failed in 2008 and was completely
+acquired by JP Morgan Chase, the number of shares
+offered to the acquirer was larger than the shares out-
+standing in the books of Bear Stearns. It was not possible to
+clarify the accounting errors and JP Morgan Chase had to
+bear the damage from excess (digital) shares.
+
+While the problem of tracing back ownership in long
+transaction chains is already a critical aspect in ﬁnancial
+markets, it is also important for physical goods, e.g.,
+(blood) diamonds or broccoli. US retailer Wal-Mart with
+more than 260 million customers per week is in search for
+a technology that helps to identify precisely those batches
+of vegetables that in a given case, e.g., are infected by
+coliform bacteria.
+
+lntermediation is today’s dominating solution for veri-
+fying ownership of assets and transaction processing.
+Intermediaries perform the careful checking of each
+involved party along a chain of intermediaries. However,
+this is not only time consuming and costly but also bears a
+credit risk in case an intermediary fails. The blockchain
+technology promises to overcome these critical aspects,
+representing “a shift from trusting people to trusting math”
+(Antonopoulos 2014) since human interventions are no
+longer necessary.
+
+2 Blockchain Functionalities and Implications
+
+A typical example for a blockchain is illustrated in Fig. l.
+A blockchain consists of data sets which are composed of a
+chain of data packages (blocks) where a block comprises
+multiple transactions (TXl-n, see Fig. l), The blockchain
+is extended by each additional block and hence represents a
+complete ledger of the transaction history. Blocks can be
+
+(E Springer

@@ -1,0 +1,131 @@
+186
+
+redundant since payment can be done in real time by
+adjusting the ledger.
+
+4 Applications of Blockchain and Future Trends
+4.] Applications
+
+Crosby et a1. (2016) distinguish between ﬁnancial and non-
+ﬁnancial applications that could potentially be addressed
+by the blockchain (Table 1). This disruptive innovation has
+not only the potential to change the nature of interactions in
+Finance, but also in many other areas of our everyday life.
+For instance, the British singer Imogen Heap sells her
+songs using the blockchain.
+
+4.2 Future Trends
+
+The application ﬁelds for blockchains seem to be manifold,
+especially in areas that have historically relied on third
+parties to establish a certain amount of trust. Atzori (2015)
+suggests that politics and the entire society might be
+restructured by the blockchain. Many functions might
+become obsolete if people started to organize and protect
+the society using decentralized platforms He concludes
+that “decentralization of government services through
+permissioned blockchains is possible and desirable, since it
+can signiﬁcantly increase public administration function-
+ality”. Reorganizing societies is of prime importance in
+poor countries Wealth can be protected more effectively
+using the blockchain. Especially in the third world,
+landowners have problems to prove the ownership if for
+example the local government aims to expropriate the
+population. These existential threats can be controlled by
+integrating land titles into the blockchain. However, as
+pointed out by Glaser (2017), the interface between the
+digital realm and the physical world could turn out to be
+the weak link which damages the digital trust established
+by a blockchain system.
+
+There is also currently a debate among researchers and
+regulators if crypto-currencies relying on the blockchain
+can fulﬁll the functions of real money (European Central
+Bank 2012; Federal Bureau of Investigation 2012). Money
+has been deﬁned by Mishkin (2004) as “anything that is
+generally accepted in payment for goods or services or in
+the repayment of debts”. Luther and White (2014) argue
+that today crypto—currencies are only rarely used as a
+medium of exchange. Glaser et al. (2014) provide empiri-
+cal insights that Bitcoin is indeed primarily used as a
+speculative asset. However, spending and accepting might
+become easier due to innovative approaches by entrepre-
+neurs, establishing crypto-currencies as a substitute for ﬁat
+money. The blockchain might therefore contribute to
+
+(E Springer
+
+M. Nofer et al.: Blockchain, Bus Inf Syst Eng 59(3):1837187 (2017)
+
+change the way people pay for goods in the real world.
+Homeowners face signiﬁcant transaction costs when buy-
+ing property. According to Goldman Sachs, “blockchain
+could reduce title insurance premiums and generate $2—
+$4 billion in cost savings in the US by reducing errors and
+manual effort” (Goldman Sachs 2016).
+
+While computer scientists mainly focus on the techni-
+cal and cryptographic challenges in this area, researchers
+from the Business and Information Systems Engineering
+ﬁeld have the opportunity to focus on market design,
+questions of trust and privacy, and the adoption respective
+non-adoption of the new technology. Moreover, this dis-
+ruptive innovation might change many existing business
+models, create new ones and might have severe impacts
+on entire industries. Therefore, research at the intersection
+of technology, markets and business models is certainly
+valuable.
+
+References
+
+Androulaki E, Karame GO, Roeschlin M, Scherer T, Capkun S (2013)
+Evaluating user privacy in bitcoin. In: International Conference
+on Financial Cryptography and Data Security. Springer, Heidel~
+berg, pp 3L5]
+
+Antonopoulos A (2014) Bitcoin security model: trust by computation.
+O'Reilly— Radar. http://radar.oreilly.com/20l4/02/bitcoin~secur
+ity-model-trustvbycomputationhtml. Accessed 30 Nov 2016
+
+Atzori M (2015) Blockchain technology and decentralized gover—
+nance: Is the state still necessary? Work Pap
+
+Barber S, Boyen X, Shi E, Uzun E (2012) Bitter to betterihow to
+make bitcoin a better currency. International Conference on
+Financial Cryptography and Data Security. Springer, Heidelberg,
+pp 399414
+
+Bonneau J, Narayanan A, Miller A, Clark J, Kroll JA, Felten EW
+(2014) Mixcoin: Anonymity for Bitcoin with accountable mixes.
+In International Conference on Financial Cryptography and Data
+Security. Springer, Heidelberg, pp 486504
+
+Buterin V (2014) A next—generation smart contract and decentralized
+application platform. White Pap
+
+Croman K, Decker C, Eyal I, Gencer AE, Juels A, Kosba A, Miller A,
+Saxena P, Shi E, Gun Sirer E, Song D, Wattenhofer R (2016) On
+scaling decentralized blockchains. 3rd Workshop on Bitcoin
+Research (BITCOIN), Barbados
+
+Crosby M, Nachiappan Pattanayak P, Verma S, Kalyanaraman V
+(2016) Blockchain technology: Beyond bitcoin. Appl Innov Rev
+2:6719
+
+European Central Bank (2012) Virtual Currency Schemes. https://
+www.ecb.europa.eu/pub/pdf/other/virtualcurrencyscheme
+s201210en.pdf. Accessed 30 Nov 2016
+
+Eyal I, Sirer EG (2014) Majority is not enough: Bitcoin mining is
+vulnerable. In: Proceedings of Financial Cryptography, Barbados
+
+Fairﬁeld I (2014) Smart contracts, Bitcoin bots, and consumer
+protection. Wash Lee L Rev Online 71:357299
+
+Federal Bureau of Investigation (2012) Bitcoin virtual currency:
+intelligence unique features present distinct challenges for
+deterring illicit activity. https://www.wired.corn/imagesiblogs/
+threatlevel/2012/05/Bitcoin-FBI.pdf. Accessed 30 Nov 2016
+
+Glaser F (2017) Pervasive decentralisation of digital infrastructures: a
+framework for blockchain enabled system and use case analysis.
